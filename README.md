@@ -158,7 +158,8 @@ It is simpler than a Segment Tree and performs very well in practice.
 
 ### Problem Set
 
-https://infoarena.ro/problema/aib
+- https://infoarena.ro/problema/aib
+- https://cses.fi/problemset/task/1646/
 
 ### References:
 
