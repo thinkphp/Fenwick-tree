@@ -3,7 +3,9 @@
 Fenwick Tree is a data structure that was described in a paper by Peter M. Feniwick in 1994. It is useful for efficiently calculating sums and updating element values in an array.
 
 
-### Practice
+### Problem Set
+
+https://infoarena.ro/problema/aib
 
 ### References:
 
